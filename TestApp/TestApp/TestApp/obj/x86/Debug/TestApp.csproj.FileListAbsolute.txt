@@ -5,3 +5,4 @@ C:\Code\Branch1.0\MyFirstRepositoryOnGit\TestApp\TestApp\TestApp\obj\x86\Debug\T
 C:\Code\Branch1.0\MyFirstRepositoryOnGit\TestApp\TestApp\TestApp\obj\x86\Debug\TestApp.csproj.GenerateResource.Cache
 C:\Code\Branch1.0\MyFirstRepositoryOnGit\TestApp\TestApp\TestApp\obj\x86\Debug\TestApp.exe
 C:\Code\Branch1.0\MyFirstRepositoryOnGit\TestApp\TestApp\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Code\Branch1.0\MyFirstRepositoryOnGit\TestApp\TestApp\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache

@@ -20,5 +20,10 @@ namespace TestApp
         {
             MessageBox.Show("Thanks for pushing my button!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("BOOM!");
+        }
     }
 }
